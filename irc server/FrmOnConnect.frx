@@ -1,0 +1,10 @@
+ÿ…:$serv NOTICE AUTH :*** Looking up your 
+hostname...
+:$serv NOTICE AUTH :*** Checking Ident
+:$serv NOTICE AUTH :*** Found your hostname
+:$serv NOTICE AUTH :*** No Ident response
+:$serv 001 Valiuum :Welcome to the V-Net IRC 
+Network Valiuum!~zxbvxcb@$urip
+:$serv 002 Valiuum :Your host is $serv[@$myip], 
+running noIRC version Heart Shaped 0.0.1
+:Valiuum mode Valiuum :+noIRCTest
